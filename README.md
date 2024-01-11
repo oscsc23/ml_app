@@ -1,5 +1,3 @@
-Searching the Internet...
-
 👋 Hi, I’m Oscar, a data scientist with extensive experience in financial models and instruments, as well as credit risk management.
 
 👀 I’m interested in leveraging data-driven insights to optimize financial decision-making, mitigate risks, and drive business growth within the finance industry.
